@@ -1,0 +1,9 @@
+{
+	"name": "bhaveshfirstdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "983f6ca7-5c5f-4408-a73c-0d5255c83022",
+		"tenantId": "186f6b84-cfcc-43ce-bfa1-4f68030e95ef"
+	}
+}
